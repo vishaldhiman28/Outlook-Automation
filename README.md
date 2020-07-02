@@ -1,2 +1,2 @@
 # Outlook-Automation
-A simple way to login outlook using seleium.
+A simple way to login outlook using selenium.
